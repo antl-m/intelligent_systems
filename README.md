@@ -1,1 +1,1 @@
-"# Intelligent systems labs 2023" 
+# Intelligent systems labs 2023 
